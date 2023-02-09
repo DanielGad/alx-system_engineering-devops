@@ -1,2 +1,2 @@
 #!/bin/bash
-chown vincent: _hello staff, ln -s _hello _ls_
+echo 'vincent staff'
