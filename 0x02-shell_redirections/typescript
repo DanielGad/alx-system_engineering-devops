@@ -1,0 +1,8 @@
+Script started on 2023-02-13 02:46:07-08:00 [TERM="xterm" TTY="/dev/pts/11" COLUMNS="136" LINES="39"]
+# vi    0	-  ./0	-hello_world
+Hello, World
+# vi ^C
+# ^C
+# exit
+
+Script done on 2023-02-13 02:58:08-08:00 [COMMAND_EXIT_CODE="130"]
