@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "128" > Del | echo "217" >> Del | cat Del
+echo "128" > del | echo "217" >> del | cat del
