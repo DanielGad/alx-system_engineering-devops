@@ -1,2 +1,2 @@
 #!/bin/bash
-function rot13_encryption() { echo "$1" | tr 'n-mN-M' 'a-mn-zA-MN-Z' }
+shapgvba ebg13_rapelcgvba() { rpub "$1" | ge 'a-zA-Z' 'n-za-mN-ZA-M' }
